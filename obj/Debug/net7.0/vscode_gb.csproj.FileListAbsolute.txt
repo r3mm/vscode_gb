@@ -1,0 +1,15 @@
+/Users/remffer/Desktop/vscode_gb/bin/Debug/net7.0/vscode_gb
+/Users/remffer/Desktop/vscode_gb/bin/Debug/net7.0/vscode_gb.deps.json
+/Users/remffer/Desktop/vscode_gb/bin/Debug/net7.0/vscode_gb.runtimeconfig.json
+/Users/remffer/Desktop/vscode_gb/bin/Debug/net7.0/vscode_gb.dll
+/Users/remffer/Desktop/vscode_gb/bin/Debug/net7.0/vscode_gb.pdb
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.csproj.AssemblyReference.cache
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.AssemblyInfoInputs.cache
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.AssemblyInfo.cs
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.csproj.CoreCompileInputs.cache
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.dll
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/refint/vscode_gb.dll
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.pdb
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/vscode_gb.genruntimeconfig.cache
+/Users/remffer/Desktop/vscode_gb/obj/Debug/net7.0/ref/vscode_gb.dll
